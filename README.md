@@ -1,4 +1,4 @@
-# frontend
+# Vue car project
 
 ## Project setup
 ```
